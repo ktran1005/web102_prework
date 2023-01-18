@@ -1,8 +1,8 @@
-# WEB102 Prework - *eGame*
+# WEB102 Prework - *Name of App Here*
 
-Submitted by: **Charles Tran**
+Submitted by: **Your Name Here**
 
-**eGame** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
@@ -25,18 +25,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/cWVSTsu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/7dUQnRP.gif"/><br>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
